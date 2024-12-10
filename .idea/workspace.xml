@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35e43efe-86a5-4b8c-aa93-d14bd7552bc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Fatigue Detector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fatigue Detector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection" beforeDir="false" afterPath="$PROJECT_DIR$/FaceMaskDetection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/README-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/caffe_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/cpp/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/cpp/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/demo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/face_mask_detection.caffemodel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/face_mask_detection.hdf5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/facemask.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/pr_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/wx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/img/wxgroup.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/keras_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/MainModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/caffe_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/keras_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/mxnet_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/mxnet_model_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/pytorch_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/load_model/tensorflow_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/MainModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/face_mask_detection_new.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/model360.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/model360.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/model360.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/paddle/__model__" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/models/paddle/__params__" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/mxnet_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/opencv_dnn_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/paddle_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/paddle_infer_slow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/pytorch_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/tensorflow_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/tensorflow_info.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceMaskDetection/utils/nms.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../../../ProgramFiles/anaconda/envs/FatigueDetection/Lib/site-packages/torch/serialization.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fatigue_Detector/FatigueDetector.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="26ID55zqO3K4g0xNRsYjObrPD84" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.FatigueDetector.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Q/Desktop/Course_Learning/Grade_2/chuangxinshixun/Fatigue_Detector/Fatigue_Detector",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Fatigue Detector" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Fatigue Detector" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\吕良伟毕业论文+PPT+算法程序\吕良伟毕业论文+PPT+算法程序\Fatigue Detector\Fatigue_Detector\images" />
+      <recent name="D:\吕良伟毕业论文+PPT+算法程序\吕良伟毕业论文+PPT+算法程序\Fatigue Detector\Fatigue_Detector\utils" />
+      <recent name="D:\吕良伟毕业论文+PPT+算法程序\吕良伟毕业论文+PPT+算法程序\Fatigue Detector\Fatigue_Detector\utils\nms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\吕良伟毕业论文+PPT+算法程序\吕良伟毕业论文+PPT+算法程序\Fatigue Detector\Fatigue_Detector\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FatigueDetector">
+    <configuration name="FatigueDetector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fatigue Detector" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fatigue_Detector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fatigue_Detector/FatigueDetector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FatigueDetector_ori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fatigue Detector" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fatigue_Detector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fatigue_Detector/FatigueDetector_ori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fatigue Detector" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fatigue_Detector/recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fatigue_Detector/recognition/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fatigue Detector" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mask-detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mask-detection/findface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wider_face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fatigue Detector" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fatigue_Detector/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fatigue_Detector/data/wider_face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FatigueDetector" />
+        <item itemvalue="Python.findface" />
+        <item itemvalue="Python.FatigueDetector_ori" />
+        <item itemvalue="Python.wider_face" />
+        <item itemvalue="Python.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e43efe-86a5-4b8c-aa93-d14bd7552bc2" name="Default Changelist" comment="" />
+      <created>1647102021437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647102021437</updated>
+      <workItem from="1715748388032" duration="670000" />
+      <workItem from="1715751066642" duration="939000" />
+      <workItem from="1715752077838" duration="1567000" />
+      <workItem from="1715784926978" duration="844000" />
+      <workItem from="1715915526316" duration="790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
